@@ -17,7 +17,7 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwVCqBl3UiFuxqWty_YGXABXwmsiZIrk_w3jAqbOQBg&s=10" width="32" height="32" alt="C#" />
     </td>
     <td>
-      <b>C# / .NET</b> — **Основной язык.** Большую часть рабочих инструментов пишу на нём
+      <b>C# / .NET — Основной язык.</b> Большую часть рабочих инструментов пишу на нём
     </td>
   </tr>
   <tr>
