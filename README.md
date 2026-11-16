@@ -10,6 +10,7 @@
 
 <details>
   <summary>Подробнее по каждому инструменту:</summary>
+  <br>
 <table>
   <tr>
     <td width="50" align="center">
@@ -44,7 +45,9 @@
     </td>
   </tr>
 </table>
+  <br>
 </details>
+
 ---
 
 <details>
