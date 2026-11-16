@@ -46,5 +46,6 @@
 <details>
   <summary>📊 Статистика GitHub</summary>
   
-    ![Github Stats](https://github-readme-stats-sk.vercel.app/api?username=Zinwire&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
+![Github Stats](https://github-readme-stats-sk.vercel.app/api?username=Zinwire&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
+    
 </details>
