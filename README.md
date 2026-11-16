@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="50" align="center">
-      <img src="https://jsdelivr.net" width="32" height="32" alt="C#" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwVCqBl3UiFuxqWty_YGXABXwmsiZIrk_w3jAqbOQBg&s=10" width="32" height="32" alt="C#" />
     </td>
     <td>
       <b>C# / .NET</b> — основной рабочий инструмент. Пишу бэкенд, API и десктопные приложения.
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td width="50" align="center">
-      <img src="https://jsdelivr.net" width="32" height="32" alt="JavaScript" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtoOyvfTJtuMCJDSOTdBKSqM2am8gH9dednH14pWUaQ&s=10" width="32" height="32" alt="JavaScript" />
     </td>
     <td>
       <b>JavaScript</b> — разработка интерактивного фронтенда и скриптов.
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td width="50" align="center">
-      <img src="https://jsdelivr.net" width="32" height="32" alt="C" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrw8wHycgPNzKVNjncxeDCLsCjDACwAd5ZZQN2KVIcA&s=10" width="32" height="32" alt="C" />
     </td>
     <td>
       <b>C</b> — базовые знания, изучение работы с памятью и низкоуровневых концепций.
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td width="50" align="center">
-      <img src="https://jsdelivr.net" width="32" height="32" alt="Zig" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3SCcsfrdvNJW4MBT9GwgfQ5eHVlueK41rOx50Aho-w&s=10" width="32" height="32" alt="Zig" />
     </td>
     <td>
       <b>Zig</b> — пет-проекты, эксперименты и знакомство с современным системным программированием.
@@ -47,7 +47,6 @@
   <summary><b>📊 Показать статистику GitHub</b></summary>
   <br>
   <p align="center">
-    <img src="https://vercel.app" alt="Статистика GitHub" />
-    <img src="https://vercel.app" alt="Топ языков" />
+    ![Github Stats](https://github-readme-stats-sk.vercel.app/api?username=Zinwire&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
   </p>
 </details>
